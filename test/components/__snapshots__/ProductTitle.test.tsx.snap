@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTile debe de mostrar correctamente con el titulo personalizado 1`] = `
+<span
+  className="productDescription coustun-style"
+>
+  custon product
+</span>
+`;
+
+exports[`ProductTile debe de mostrar el componente con el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    coffe mug - meme sin imagen
+  </span>
+</div>
+`;
